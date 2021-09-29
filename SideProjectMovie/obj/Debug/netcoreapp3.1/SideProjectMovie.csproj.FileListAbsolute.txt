@@ -1,0 +1,13 @@
+C:\Users\Student\Desktop\Side Project\SideProjectMovie\SideProjectMovie\bin\Debug\netcoreapp3.1\SideProjectMovie.exe
+C:\Users\Student\Desktop\Side Project\SideProjectMovie\SideProjectMovie\bin\Debug\netcoreapp3.1\SideProjectMovie.deps.json
+C:\Users\Student\Desktop\Side Project\SideProjectMovie\SideProjectMovie\bin\Debug\netcoreapp3.1\SideProjectMovie.runtimeconfig.json
+C:\Users\Student\Desktop\Side Project\SideProjectMovie\SideProjectMovie\bin\Debug\netcoreapp3.1\SideProjectMovie.runtimeconfig.dev.json
+C:\Users\Student\Desktop\Side Project\SideProjectMovie\SideProjectMovie\bin\Debug\netcoreapp3.1\SideProjectMovie.dll
+C:\Users\Student\Desktop\Side Project\SideProjectMovie\SideProjectMovie\bin\Debug\netcoreapp3.1\SideProjectMovie.pdb
+C:\Users\Student\Desktop\Side Project\SideProjectMovie\SideProjectMovie\obj\Debug\netcoreapp3.1\SideProjectMovie.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Side Project\SideProjectMovie\SideProjectMovie\obj\Debug\netcoreapp3.1\SideProjectMovie.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Side Project\SideProjectMovie\SideProjectMovie\obj\Debug\netcoreapp3.1\SideProjectMovie.AssemblyInfo.cs
+C:\Users\Student\Desktop\Side Project\SideProjectMovie\SideProjectMovie\obj\Debug\netcoreapp3.1\SideProjectMovie.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Side Project\SideProjectMovie\SideProjectMovie\obj\Debug\netcoreapp3.1\SideProjectMovie.dll
+C:\Users\Student\Desktop\Side Project\SideProjectMovie\SideProjectMovie\obj\Debug\netcoreapp3.1\SideProjectMovie.pdb
+C:\Users\Student\Desktop\Side Project\SideProjectMovie\SideProjectMovie\obj\Debug\netcoreapp3.1\SideProjectMovie.genruntimeconfig.cache
