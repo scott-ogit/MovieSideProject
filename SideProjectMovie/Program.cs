@@ -6,7 +6,7 @@ namespace SideProjectMovie
     {
         static void Main(string[] args)
         {
-           
+            Movie movie = new Movie("Die Hard");
 
 
         }
